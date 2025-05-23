@@ -1,6 +1,6 @@
 #  Discount Features API
 
-A Spring Boot + PostgreSQL backend for comparing product prices, tracking discounts, optimizing shopping baskets, and setting custom price alerts. Built as part of the **Accesa Java Internship 2025** coding challenge.
+A Spring Boot + PostgreSQL backend for comparing product prices, tracking discounts, optimizing shopping baskets, and setting custom price alerts.
 
 ---
 
